@@ -1,0 +1,7 @@
+18/12/07 15:17:06 INFO MemoryStore: Block rdd_2_0 stored as values in memory (estimated size 496.0 B, free 899.5 MB)
+18/12/07 15:17:06 INFO BlockManagerInfo: Added rdd_2_0 in memory on BONC-PC:54729 (size: 496.0 B, free: 899.7 MB)
+18/12/07 15:17:06 INFO Executor: Finished task 0.0 in stage 0.0 (TID 0). 800 bytes result sent to driver
+18/12/07 15:17:06 INFO TaskSetManager: Finished task 0.0 in stage 0.0 (TID 0) in 437 ms on localhost (executor driver) (1/1)
+18/12/07 15:17:06 INFO TaskSchedulerImpl: Removed TaskSet 0.0, whose tasks have all completed, from pool
+18/12/07 15:17:06 INFO DAGScheduler: ResultStage 0 (foreach at RddTest.scala:17) finished in 0.561 s
+18/12/07 15:17:06 INFO DAGScheduler: Job 0 finished: foreach at RddTest.scala:17, took 0.664933 s

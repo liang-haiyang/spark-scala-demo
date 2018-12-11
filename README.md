@@ -1,2 +1,6 @@
-# spark-scala-demo
-使用scala maven集成spark
+# 使用scala编写spark程序
+本项目设计spark数据结构与算法
+## 算法使用
+    1. 线性回归
+## 数据结构
+    1. RDD数据结构介绍
